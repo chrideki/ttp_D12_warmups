@@ -1,4 +1,0 @@
--- Find the mean, min, max, stdev for the interval of time (in days) between purchases for each customer, 
--- as a way of measuring purchasing-frequency for each customer. Also calculate the number of orders for each 
--- customer.
--- (See the *hints* and expected results files for ideas)
